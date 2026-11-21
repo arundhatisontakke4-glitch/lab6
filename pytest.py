@@ -1,4 +1,4 @@
-from employee import emp
+from emp import emp
 
 def test_employee_details():
     result = emp("Rahul", "EMP101", "IT", "50000")
